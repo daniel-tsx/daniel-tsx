@@ -1,4 +1,4 @@
-````md
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=185&section=header&text=Daniel%20Nguyen&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Frontend%20Developer%20%7C%20AI%20SaaS%20Builder%20%7C%20Founder%20of%20Eastbase%20Studio&descSize=16&descAlignY=53"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=185&section=header&text=Daniel%20Nguyen&fontSize=44&fontColor=134e4a&animation=twinkling&fontAlignY=32&desc=Senior%20Frontend%20Developer%20%7C%20AI%20SaaS%20Builder%20%7C%20Founder%20of%20Eastbase%20Studio&descSize=16&descAlignY=53"/>
@@ -53,7 +53,8 @@ const daniel = {
   philosophy:
     'AI should make software more useful, not just more expensive.',
 }
-````
+```
+
 
 I build end-to-end products with a strong frontend foundation: UX, product flows, architecture,
 auth, database, billing, AI workflows, deployment, and launch polish.
