@@ -93,7 +93,7 @@ AI-assisted trip planner that turns vague travel ideas into structured itinerari
 
 A gentle receivables assistant for freelancers and small teams — tracking unpaid invoices and drafting relationship-safe follow-ups.
 
-**Status:** Building
+**Status:** Released
 
 `Next.js` `Gmail API` `Drizzle` `AI Drafting`
 
