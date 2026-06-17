@@ -30,9 +30,9 @@ const daniel = {
   ],
 
   shipped: ['SmartTrips.app', 'StackPulse'],
-  building: ['DueKind', 'MergeAttest', 'BurnCap', 'AegisRail', 'Personal Backend Architecture Lab'],
+  building: ['DueKind', 'MergeAttest', 'BurnCap', 'AegisRail'],
 
-  code: ['TypeScript', 'JavaScript', 'Python'],
+  code: ['TypeScript', 'JavaScript'],
   askMeAbout: [
     'Frontend Architecture',
     'Next.js App Router',
