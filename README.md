@@ -29,8 +29,9 @@ const daniel = {
     'Dogfooding internal tools before turning them into products',
   ],
 
-  shipped: ['SmartTrips.app', 'StackPulse'],
-  building: ['DueKind', 'MergeAttest', 'BurnCap', 'AegisRail'],
+  shipped: ['SmartTrips.app', 'DueKind'],
+  building: ['MergeAttest', 'BurnCap', 'AegisRail'],
+  freeTools: ['StackPulse', 'PromptExpert']
 
   code: ['TypeScript', 'JavaScript'],
   askMeAbout: [
