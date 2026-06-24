@@ -29,8 +29,8 @@ const daniel = {
     'Dogfooding internal tools before turning them into products',
   ],
 
-  shipped: ['SmartTrips.app', 'DueKind'],
-  building: ['MergeAttest', 'BurnCap', 'AegisRail'],
+  shipped: ['SmartTrips.app', 'DueKind', 'Cookd'],
+  building: ['PodCut', 'BurnCap', 'AegisRail'],
   freeTools: ['StackPulse', 'PromptExpert']
 
   code: ['TypeScript', 'JavaScript'],
@@ -205,6 +205,7 @@ A personal app for tracking new English words, notes, examples, and learning pro
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge\&logo=vitest\&logoColor=white)
 
 ### Backend, Data & SaaS
 
@@ -230,10 +231,7 @@ A personal app for tracking new English words, notes, examples, and learning pro
 
 ### Also Exploring
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=threedotjs\&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge\&logo=vitest\&logoColor=white)
 
 </div>
 
@@ -276,7 +274,7 @@ A personal app for tracking new English words, notes, examples, and learning pro
 Frontend craft      →  Product engineering
 AI experiments      →  Useful SaaS workflows
 Personal tools      →  Potential products
-Shipping fast       →  Still caring about quality
+Shipping fast       →  Shipped high quality products
 AI hype             →  Practical, measurable leverage
 ```
 
@@ -322,4 +320,3 @@ I’m especially interested in the intersection of:
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=100&section=footer"/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </picture>
-```
