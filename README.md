@@ -125,7 +125,7 @@ A work achievements tracker that helps professionals capture meaningful wins as 
 </td>
 <td width="33%" valign="top">
 
-### 🎙️ PodCut
+### 🎙️ [PodCut](https://getpodcut.com)
 
 AI-assisted podcast and audio repurposing workflow — helping creators turn long recordings into highlights, short clips, titles, summaries, and reusable content faster.
 
