@@ -114,80 +114,39 @@ AI cost monitoring for small teams — attribute spend by feature, customer, and
 <tr>
 <td width="33%" valign="top">
 
-### ✅ MergeAttest
+### 🧾 [Cookd](https://cookd.work)
 
-AI-assisted PR review and repository quality workflow — helping small teams ship with more confidence across multiple repos.
+A work achievements tracker that helps professionals capture meaningful wins as they happen, then turn them into stronger performance reviews, raise discussions, or impact summaries.
+
+**Status:** Building / Near Launch
+
+`Work Proof` `Productivity` `AI Writing` `Career Tools`
+
+</td>
+<td width="33%" valign="top">
+
+### 🎙️ PodCut
+
+AI-assisted podcast and audio repurposing workflow — helping creators turn long recordings into highlights, short clips, titles, summaries, and reusable content faster.
 
 **Status:** Building
 
-`GitHub` `Code Review` `AI Workflow` `DevTools`
+`Podcast` `Content Repurposing` `AI Workflow` `Creator Tools`
 
 </td>
 <td width="33%" valign="top">
 
-### 🛡️ AegisRail
+### 🧭 [LodeStar](https://lodestars.app)
 
-Developer-focused release safety rails for small SaaS projects — because “it works locally” is not a deployment strategy.
+AI visibility toolkit for SaaS builders and web owners — helping products become easier for AI agents to understand, index, and recommend when users search for relevant solutions.
 
-**Status:** Exploring
+**Status:** Building
 
-`Release Quality` `Checks` `Developer Tooling`
-
-</td>
-<td width="33%" valign="top">
-
-### 📦 [StackPulse](https://www.stackpulse.work)
-
-Open-source release feed that watches your stack’s GitHub repos and turns changelogs into scannable AI digests.
-
-**Status:** Open Source / Non-profit
-[source](https://github.com/daniel-tsx/stack-pulse)
-
-`Next.js` `OpenRouter` `Drizzle` `Vercel Cron`
+`AI Visibility` `LLM SEO` `SaaS Tooling` `Discovery`
 
 </td>
 </tr>
-</table>
 
-<br/>
-
-## 🧪 Personal Labs
-
-I also build private tools for my own workflow before deciding whether they deserve to become real products.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Backend Architecture Lab
-
-A personal learning system for backend architecture, system design, scaling patterns, rate limits, queues, caching, databases, and production tradeoffs.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Environment Vault
-
-A secure place to organize, encrypt, and manage environment variables across many personal projects.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💸 Project Cost Tracker
-
-A dashboard to track project expenses, recurring infra costs, revenue, runway, and product sustainability.
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Vocabulary Tracker
-
-A personal app for tracking new English words, notes, examples, and learning progress.
-
-</td>
-</tr>
 </table>
 
 <br/>
