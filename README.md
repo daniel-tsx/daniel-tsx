@@ -105,7 +105,7 @@ A gentle receivables assistant for freelancers and small teams — tracking unpa
 
 AI cost monitoring for small teams — attribute spend by feature, customer, and model before the bill becomes a surprise.
 
-**Status:** Designing / Building
+**Status:** Released
 
 `AI Cost` `Budget Guardrails` `SaaS Ops`
 
@@ -118,7 +118,7 @@ AI cost monitoring for small teams — attribute spend by feature, customer, and
 
 A work achievements tracker that helps professionals capture meaningful wins as they happen, then turn them into stronger performance reviews, raise discussions, or impact summaries.
 
-**Status:** Building / Near Launch
+**Status:** Released
 
 `Work Proof` `Productivity` `AI Writing` `Career Tools`
 
@@ -129,7 +129,7 @@ A work achievements tracker that helps professionals capture meaningful wins as 
 
 AI-assisted podcast and audio repurposing workflow — helping creators turn long recordings into highlights, short clips, titles, summaries, and reusable content faster.
 
-**Status:** Building
+**Status:** Released
 
 `Podcast` `Content Repurposing` `AI Workflow` `Creator Tools`
 
@@ -140,7 +140,7 @@ AI-assisted podcast and audio repurposing workflow — helping creators turn lon
 
 AI visibility toolkit for SaaS builders and web owners — helping products become easier for AI agents to understand, index, and recommend when users search for relevant solutions.
 
-**Status:** Building
+**Status:** Released
 
 `AI Visibility` `LLM SEO` `SaaS Tooling` `Discovery`
 
