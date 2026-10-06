@@ -24,7 +24,7 @@ const daniel = {
     'React',
     'Next.js',
     'TypeScript',
-    'Frontend Architecture',
+    'Software Architecture',
     'Performance',
     'Complex Product Workflows',
   ],
