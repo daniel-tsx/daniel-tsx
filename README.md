@@ -180,35 +180,6 @@ AI cost monitoring for small teams, with feature/model attribution and budget gu
 
 </td>
 </tr>
-<tr>
-<td width="33%" valign="top">
-
-### 🛡️ [AllStillGood](https://allstillgood.com)
-
-Deploy-aware health and security monitoring with regression detection.
-
-`Monitoring` `Security` `Inngest`
-
-</td>
-<td width="33%" valign="top">
-
-### 🧩 [ToolRoster](https://toolroster.com)
-
-AI governance workflows for approvals, data-handling rules, and audit trails.
-
-`Governance` `Policy` `Approvals`
-
-</td>
-<td width="33%" valign="top">
-
-### 🔐 [AccessExit](https://accessexit.com)
-
-Structured employee offboarding workflows with ownership, evidence, and completion tracking.
-
-`Access Control` `SaaS Ops` `Audit Trail`
-
-</td>
-</tr>
 </table>
 
 </details>
