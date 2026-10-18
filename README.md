@@ -69,23 +69,6 @@ Outside professional work, I use **Eastbase Studio** as a personal engineering l
 
 <br/>
 
-## ⛓️ Web3 Experience
-
-My Web3 work has primarily been at the **application and integration layer** — connecting polished product experiences to blockchain systems reliably.
-
-- Built and maintained production dApps across **multiple EVM networks and Solana**
-- Implemented **wallet authentication**, signing flows, and wallet/account linking
-- Built **NFT marketplace** buy/sell flows and platform-fee integrations
-- Worked with **Wagmi, Viem, RainbowKit, and ethers.js**
-- Handled transaction lifecycle UX: pending, confirmation, failure, retries, and network switching
-- Synchronized **on-chain state with backend/application state**
-- Integrated smart contracts from the application side and worked with contract-driven business flows
-- Designed frontend architecture for asynchronous, state-heavy Web3 experiences
-
-> My main specialization is Web3 application engineering rather than deep Solidity/smart-contract development.
-
-<br/>
-
 ## 🧪 Featured Engineering Work
 
 > These public repositories are engineering labs and learning/reference projects unless explicitly marked otherwise. They are not client production source code.
